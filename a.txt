@@ -1,0 +1,31 @@
+Компонент Модель 
+Процессор Intel Core i5-12400F 
+Материнка Gigabyte B760M DS3H DDR4 
+ОЗУ 32 ГБ DDR4-3200 Kingston Fury 
+Видеокарта ASUS Dual RTX 5060 OC 8 ГБ 
+SSD Kingston NV3 1 ТБ 
+БП DeepCool PX1000G 1000 Вт Gold 
+СЖО Cougar Poseidon Elite ARGB 360 
+Корпус Powerman DA815 
+
+
+Компонент Модель 
+Процессор AMD Ryzen 5 5600 
+Материнка Gigabyte B550 AORUS ELITE V2 
+ОЗУ 32 ГБ DDR4-3200 Kingston Fury 
+Видеокарта Sapphire Nitro+ RX 6700 XT 12 ГБ 
+SSD Kingston NV3 1 ТБ NVMe 
+БП DeepCool PX1000G 1000 Вт Gold 
+СЖО Cougar Poseidon Elite ARGB 360 
+Корпус Powerman DA815 
+
+
+Компонент Модель 
+Процессор AMD Ryzen 5 7500F 
+Материнка ASUS Prime X670-P WiFi 
+ОЗУ 32 ГБ DDR5-4800 Kingston Fury 
+Видеокарта Gigabyte Radeon RX 6700 XT Gaming OC 12 ГБ 
+SSD Kingston NV3 1 ТБ 
+БП DeepCool PX1000G 1000 Вт Gold 
+СЖО Cougar Poseidon Elite ARGB 360 
+Корпус Powerman DA815 
